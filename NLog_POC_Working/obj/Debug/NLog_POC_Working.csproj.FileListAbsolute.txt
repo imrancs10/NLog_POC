@@ -1,0 +1,9 @@
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\bin\Debug\NLog_POC_Working.exe.config
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\bin\Debug\NLog.config
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\bin\Debug\NLog_POC_Working.exe
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\bin\Debug\NLog_POC_Working.pdb
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\bin\Debug\NLog.dll
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\bin\Debug\NLog.xml
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\obj\Debug\NLog_POC_Working.csprojResolveAssemblyReference.cache
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\obj\Debug\NLog_POC_Working.exe
+E:\Desktop Folder\POC\NLog_POC_Working\NLog_POC_Working\obj\Debug\NLog_POC_Working.pdb
